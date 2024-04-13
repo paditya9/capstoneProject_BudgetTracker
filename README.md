@@ -29,15 +29,12 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 
 * User can log, edit and delete, or view expenses in the application to track their spending real time.
 * User can categorize their spendings to get a better understanding of their expenses.
-* User can set monthly budget to each expense cateogry.
-* User can also set due date to their credit card bills (if exists).
+* User can optinally describe the expense
 
 **Optional Nice-to-have Stories**
 
 * User can receive notifications when they exceed their budget for a specific category.
-* User can link thier bank account to automatically sync their expenses.
-* User can unable "share" feature to share their budgetting to family members or financial advisors.
-* Users can receive personalized financial tips and recommendations based on their spending habits.
+* User can "share" feature to share their budgetting to family members or financial advisors.
 
 ### 2. Screen Archetypes
 
@@ -54,33 +51,24 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
     *  Link Bank account
     *  Share expenses
     *  Feedback and ratings
-- [ ] Dashboard
-* Display summary of current month's spending and budget progress.
-- [ ] Expenses log
-* User can add, edit, delete, or view individual expenses and categorize them
+- [ ] Dashboard/Expense Log
+* User's will be able to see their exisiting expeneses, and also add, edit and delete the expenses
+- [ ] Category log
+* Can view all the expenses based on the selected expense category
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* Login
-* Signup
-* Settings
-* Dashboard
-* Expense log
+* Dashboard/Expense log
+* Category log
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Login Screen
-=> Dashboard
-- [ ] Singup Screen
-=> Dashboard
-- [ ] Settings
-=> Dashboard
 - [ ] Expense Log
-=> Dashboard
+=> Category log
 - [ ] Dashboard
-=> Expense log, and settings
+=> Expense log 
 
 
 ## Wireframes
