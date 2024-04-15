@@ -59,9 +59,9 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 
 
 ## Wireframes
+![IMG_1C85531BBA75-1](https://github.com/paditya9/capstoneProject_BudgetTracker/assets/148919991/b97ff882-efcb-4860-9b26-73a0045572b1)
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
 
 ## Sprint Breakup
 
