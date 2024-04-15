@@ -68,7 +68,15 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 1. Sprint 1 = Initial set up of the model and creating Main storyboard view
 - [X] Create necessary files, and the main storyboard
 - [X] Successfully build the model with the expense and cateogy view (initally empty)
-- [X] Completion Data = 04/15 
+- [X] Completion Data = 04/15
+- [ ] Loom Video
+      <div>
+      <p>capstoneProject_BudgetTracker/README.md at sprint1 · paditya9/capstoneProject_BudgetTracker - 15 April 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/2ca442a6f2fb44f28bd2d2696837782d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2ca442a6f2fb44f28bd2d2696837782d-with-play.gif">
+    </a>
+  </div>
 
 2. Sprint 2 = Finish the dashboard/expense view
 - [ ] Implement create, view, edit funtionalities to the dashboard
