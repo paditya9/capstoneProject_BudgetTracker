@@ -38,19 +38,6 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 
 ### 2. Screen Archetypes
 
-- [ ] Login Screen
-* User can log into their exsisting account.
-- [ ] Login Screen
-* User can register to create a new account
-- [ ] Profile/Setting's Screen
-* Must have's:
-    * Personal information
-    * Create expense categories, and set custom budgets
-    * Select desired currency format
-* Optional:
-    *  Link Bank account
-    *  Share expenses
-    *  Feedback and ratings
 - [ ] Dashboard/Expense Log
 * User's will be able to see their exisiting expeneses, and also add, edit and delete the expenses
 - [ ] Category log
