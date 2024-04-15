@@ -63,9 +63,26 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
+## Sprint Breakup
 
-### [BONUS] Interactive Prototype
+1. Sprint 1 = Initial set up of the model and creating Main storyboard view
+- [X] Create necessary files, and the main storyboard
+- [X] Successfully build the model with the expense and cateogy view (initally empty)
+- [X] Completion Data = 04/15 
+
+2. Sprint 2 = Finish the dashboard/expense view
+- [ ] Implement create, view, edit funtionalities to the dashboard
+- [ ] Implement refresh functionality
+- [ ] Implement delete exisiting expense
+
+3. Sprint 3 = Finish the category view
+- [ ] User can optionally add specific expenses to certain per-defined categories
+- [ ] Implement the category view to view all expenses if selected a category
+
+4. Spring 4 = Finish tweeks
+- [ ] Make background, font and size changes as per necessity
+- [ ] Add an app logo 
+
 
 ## Schema 
 
