@@ -69,7 +69,7 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 - [X] Create necessary files, and the main storyboard
 - [X] Successfully build the model with the expense and cateogy view (initally empty)
 - [X] Completion Data = 04/15
-- [ ] Loom Video
+- [X] Loom Video
       <div>
       <p>capstoneProject_BudgetTracker/README.md at sprint1 · paditya9/capstoneProject_BudgetTracker - 15 April 2024 - Watch Video</p>
     </a>
