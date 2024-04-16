@@ -59,13 +59,38 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 
 
 ## Wireframes
+![IMG_1C85531BBA75-1](https://github.com/paditya9/capstoneProject_BudgetTracker/assets/148919991/b97ff882-efcb-4860-9b26-73a0045572b1)
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
 
-### [BONUS] Interactive Prototype
+## Sprint Breakup
+
+1. Sprint 1 = Initial set up of the model and creating Main storyboard view
+- [X] Create necessary files, and the main storyboard
+- [X] Successfully build the model with the expense and cateogy view (initally empty)
+- [X] Completion Data = 04/15
+- [X] Loom Video
+<div>
+    <a href="https://www.loom.com/share/2ca442a6f2fb44f28bd2d2696837782d">
+    </a>
+    <a href="https://www.loom.com/share/2ca442a6f2fb44f28bd2d2696837782d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2ca442a6f2fb44f28bd2d2696837782d-with-play.gif">
+    </a>
+  </div>
+
+2. Sprint 2 = Finish the dashboard/expense view
+- [ ] Implement create, view, edit funtionalities to the dashboard
+- [ ] Implement refresh functionality
+- [ ] Implement delete exisiting expense
+
+3. Sprint 3 = Finish the category view
+- [ ] User can optionally add specific expenses to certain per-defined categories
+- [ ] Implement the category view to view all expenses if selected a category
+
+4. Spring 4 = Finish tweeks
+- [ ] Make background, font and size changes as per necessity
+- [ ] Add an app logo 
+
 
 ## Schema 
 
