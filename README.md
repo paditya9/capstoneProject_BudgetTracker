@@ -70,6 +70,7 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 - [X] Successfully build the model with the expense and cateogy view (initally empty)
 - [X] Completion Data = 04/15
 - [X] Loom Video
+- Reflection: The initial project setup was fairly challenging since I had no instructions on how to begin. Thinking from scartch, and referring back and forth to concepts took the most time. 
 <div>
     <a href="https://www.loom.com/share/2ca442a6f2fb44f28bd2d2696837782d">
     </a>
