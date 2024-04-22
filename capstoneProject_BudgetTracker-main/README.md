@@ -80,19 +80,9 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
   </div>
 
 2. Sprint 2 = Finish the dashboard/expense view
-- [X] Implement create, view, edit funtionalities to the dashboard
-- [X] Implement refresh functionality
-- [X] Implement delete exisiting expense
-- [X] Completion Data = 04/19
-- [X] Loom Video
-- Reflection: This sprint was very challenging, however, the wireframes helped me visualize the idea of the app. I used AI to get some help, and assist with some code fixes. 
-<div>
-    <a href="https://www.loom.com/share/27e7afcb5159444caa363e29eb8d2f72">
-    </a>
-    <a href="https://www.loom.com/share/27e7afcb5159444caa363e29eb8d2f72">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/27e7afcb5159444caa363e29eb8d2f72-with-play.gif">
-    </a>
-  </div>
+- [ ] Implement create, view, edit funtionalities to the dashboard
+- [ ] Implement refresh functionality
+- [ ] Implement delete exisiting expense
 
 3. Sprint 3 = Finish the category view
 - [ ] User can optionally add specific expenses to certain per-defined categories
