@@ -95,8 +95,20 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
   </div>
 
 3. Sprint 3 = Finish the category view
-- [ ] User can optionally add specific expenses to certain per-defined categories
-- [ ] Implement the category view to view all expenses if selected a category
+- [X] User can optionally add specific expenses to certain per-defined categories
+- [X] Implement the category view to view all expenses if selected a category
+Optional:
+- [X] Implement the search bar to search for specific expenses
+- [X] Completion Data = 04/19
+- [X] Loom Video
+- Reflection: This sprint was comparetively easier because I just had to add an additional category view with almost the same logic as the expense dashboard. Additionally, I made it more usable by implementing an optional feature of search bar navigation. 
+<div>
+    <a href="https://www.loom.com/share/d467f2331aad4e89a9a11e64544248b5">
+    </a>
+    <a href="https://www.loom.com/share/d467f2331aad4e89a9a11e64544248b5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d467f2331aad4e89a9a11e64544248b5-with-play.gif">
+    </a>
+  </div>
 
 4. Spring 4 = Finish tweeks
 - [ ] Make background, font and size changes as per necessity
