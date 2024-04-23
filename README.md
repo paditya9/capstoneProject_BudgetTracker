@@ -99,7 +99,7 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 - [X] Implement the category view to view all expenses if selected a category
 Optional:
 - [X] Implement the search bar to search for specific expenses
-- [X] Completion Data = 04/19
+- [X] Completion Data = 04/22
 - [X] Loom Video
 - Reflection: This sprint was comparetively easier because I just had to add an additional category view with almost the same logic as the expense dashboard. Additionally, I made it more usable by implementing an optional feature of search bar navigation. 
 <div>
