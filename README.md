@@ -27,20 +27,21 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 
 **Required Must-have Stories**
 
-* User can log, edit and delete, or view expenses in the application to track their spending real time.
-* User can categorize their spendings to get a better understanding of their expenses.
-* User can optinally describe the expense
+- [X] User can log, edit and delete, or view expenses in the application to track their spending real time.
+- [X] User can categorize their spendings to get a better understanding of their expenses.
+- [X] User can optinally describe the expense
 
 **Optional Nice-to-have Stories**
 
-* User can receive notifications when they exceed their budget for a specific category.
-* User can "share" feature to share their budgetting to family members or financial advisors.
+- [X] User can search for a particular expense with key words of their expense
+- [ ] User can receive notifications when they exceed their budget for a specific category.
+- [ ] User can "share" feature to share their budgetting to family members or financial advisors.
 
 ### 2. Screen Archetypes
 
-- [ ] Dashboard/Expense Log
+- [X] Dashboard/Expense Log
 * User's will be able to see their exisiting expeneses, and also add, edit and delete the expenses
-- [ ] Category log
+- [X] Category log
 * Can view all the expenses based on the selected expense category
 
 ### 3. Navigation
@@ -52,9 +53,9 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Expense Log
+- [X] Expense Log
 => Category log
-- [ ] Dashboard
+- [X] Category log
 => Expense log 
 
 
@@ -111,20 +112,22 @@ Optional:
   </div>
 
 4. Spring 4 = Finish tweeks
-- [ ] Make background, font and size changes as per necessity
-- [ ] Add an app logo 
+- [X] Make background, font and size changes as per necessity
+- [X] Add an app logo
+- [X] Completion Data = 04/29
+- [X] Loom Video
+<div>
+    <a href="https://www.loom.com/share/fcc190febf8e41a2b3e92d500a18e7e1">
+    </a>
+    <a href="https://www.loom.com/share/fcc190febf8e41a2b3e92d500a18e7e1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fcc190febf8e41a2b3e92d500a18e7e1-with-play.gif">
+    </a>
+  </div>
 
 
-## Schema 
-
-[This section will be completed in Unit 9]
 
 ### Models
 
-[Add table of models]
+1. Dashboard Interface
+2. Category Interface
 
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
