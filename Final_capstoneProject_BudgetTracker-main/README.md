@@ -27,21 +27,20 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 
 **Required Must-have Stories**
 
-- [X] User can log, edit and delete, or view expenses in the application to track their spending real time.
-- [X] User can categorize their spendings to get a better understanding of their expenses.
-- [X] User can optinally describe the expense
+* User can log, edit and delete, or view expenses in the application to track their spending real time.
+* User can categorize their spendings to get a better understanding of their expenses.
+* User can optinally describe the expense
 
 **Optional Nice-to-have Stories**
 
-- [X] User can search for a particular expense with key words of their expense
-- [ ] User can receive notifications when they exceed their budget for a specific category.
-- [ ] User can "share" feature to share their budgetting to family members or financial advisors.
+* User can receive notifications when they exceed their budget for a specific category.
+* User can "share" feature to share their budgetting to family members or financial advisors.
 
 ### 2. Screen Archetypes
 
-- [X] Dashboard/Expense Log
+- [ ] Dashboard/Expense Log
 * User's will be able to see their exisiting expeneses, and also add, edit and delete the expenses
-- [X] Category log
+- [ ] Category log
 * Can view all the expenses based on the selected expense category
 
 ### 3. Navigation
@@ -53,9 +52,9 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
 
 **Flow Navigation** (Screen to Screen)
 
-- [X] Expense Log
+- [ ] Expense Log
 => Category log
-- [X] Category log
+- [ ] Dashboard
 => Expense log 
 
 
@@ -81,53 +80,29 @@ SmartSpend is a user-friendly budget tracking app designed to simplify the proce
   </div>
 
 2. Sprint 2 = Finish the dashboard/expense view
-- [X] Implement create, view, edit funtionalities to the dashboard
-- [X] Implement refresh functionality
-- [X] Implement delete exisiting expense
-- [X] Completion Data = 04/19
-- [X] Loom Video
-- Reflection: This sprint was very challenging, however, the wireframes helped me visualize the idea of the app. I used AI to get some help, and assist with some code fixes. 
-<div>
-    <a href="https://www.loom.com/share/27e7afcb5159444caa363e29eb8d2f72">
-    </a>
-    <a href="https://www.loom.com/share/27e7afcb5159444caa363e29eb8d2f72">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/27e7afcb5159444caa363e29eb8d2f72-with-play.gif">
-    </a>
-  </div>
+- [ ] Implement create, view, edit funtionalities to the dashboard
+- [ ] Implement refresh functionality
+- [ ] Implement delete exisiting expense
 
 3. Sprint 3 = Finish the category view
-- [X] User can optionally add specific expenses to certain per-defined categories
-- [X] Implement the category view to view all expenses if selected a category
-Optional:
-- [X] Implement the search bar to search for specific expenses
-- [X] Completion Data = 04/22
-- [X] Loom Video
-- Reflection: This sprint was comparetively easier because I just had to add an additional category view with almost the same logic as the expense dashboard. Additionally, I made it more usable by implementing an optional feature of search bar navigation. 
-<div>
-    <a href="https://www.loom.com/share/d467f2331aad4e89a9a11e64544248b5">
-    </a>
-    <a href="https://www.loom.com/share/d467f2331aad4e89a9a11e64544248b5">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d467f2331aad4e89a9a11e64544248b5-with-play.gif">
-    </a>
-  </div>
+- [ ] User can optionally add specific expenses to certain per-defined categories
+- [ ] Implement the category view to view all expenses if selected a category
 
 4. Spring 4 = Finish tweeks
-- [X] Make background, font and size changes as per necessity
-- [X] Add an app logo
-- [X] Completion Data = 04/29
-- [X] Loom Video
-<div>
-    <a href="https://www.loom.com/share/fcc190febf8e41a2b3e92d500a18e7e1">
-    </a>
-    <a href="https://www.loom.com/share/fcc190febf8e41a2b3e92d500a18e7e1">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fcc190febf8e41a2b3e92d500a18e7e1-with-play.gif">
-    </a>
-  </div>
+- [ ] Make background, font and size changes as per necessity
+- [ ] Add an app logo 
 
 
+## Schema 
+
+[This section will be completed in Unit 9]
 
 ### Models
 
-1. Dashboard Interface
-2. Category Interface
+[Add table of models]
 
+### Networking
+
+- [Add list of network requests by screen ]
+- [Create basic snippets for each Parse network request]
+- [OPTIONAL: List endpoints if using existing API such as Yelp]
